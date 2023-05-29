@@ -252,6 +252,12 @@ p {
     margin: 25px 0 45px 0;
 }
 
+h6 {
+     font-size: 16px;
+     color: #ffffff;
+     margin: 25px 0 45px 0;
+}
+
 .blog {
     padding: 100px 0;
     text-align: center;

@@ -263,7 +263,7 @@ h6 {
     text-align: center;
 }
 
-.blog_content {
+.blog-content {
     display: flex;
     justify-content: space-between;
 }

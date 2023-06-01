@@ -283,6 +283,10 @@ h6 {
     color: #323337;
 }
 
+.blog-1 {
+    padding: 15px 50px;
+}
+
 .blog-2 {
     padding: 15px 50px;
 }
@@ -294,8 +298,11 @@ h6 {
 
 .blog-2 img {
     width: 300px;
-    border-radius: 15px;
-    margin-bottom: 15px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    display: block;
+    margin: 5px auto;
+    max-width: 100%;
 }
 
 .footer {

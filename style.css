@@ -283,6 +283,21 @@ h6 {
     color: #323337;
 }
 
+.blog-2 {
+    padding: 15px 50px;
+}
+
+.blog-2 h3 {
+    font-size: 25px;
+    color: #323337;
+}
+
+.blog-2 img {
+    width: 300px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
 .footer {
     padding: 100px 0;
     background-color: #000000;
